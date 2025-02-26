@@ -1,0 +1,35 @@
+{
+    "authors": [
+      {
+        "id": 1,
+        "name": "J.K. Rowling",
+        "famous_books": ["Harry Potter and the Sorcerer's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban"]
+      },
+      {
+        "id": 2,
+        "name": "George R.R. Martin",
+        "famous_books": ["A Game of Thrones", "A Clash of Kings", "A Storm of Swords"]
+      },
+      {
+        "id": 3,
+        "name": "J.R.R. Tolkien",
+        "famous_books": ["The Hobbit", "The Lord of the Rings", "The Silmarillion"]
+      },
+      {
+        "id": 4,
+        "name": "Agatha Christie",
+        "famous_books": ["Murder on the Orient Express", "The Murder of Roger Ackroyd", "And Then There Were None"]
+      },
+      {
+        "id": 5,
+        "name": "Stephen King",
+        "famous_books": ["The Shining", "It", "Misery"]
+      },
+      {
+        "id": 6,
+        "name": "Jane Austen",
+        "famous_books": ["Pride and Prejudice", "Sense and Sensibility", "Emma"]
+      }
+    ]
+  }
+  
