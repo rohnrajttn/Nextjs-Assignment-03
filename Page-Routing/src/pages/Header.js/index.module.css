@@ -1,0 +1,32 @@
+.nav {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav .ul {
+    width: 50%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.li {
+    padding: 10px;
+    /* margin-right: 10px; */
+}
+.link {
+    color: #fff;
+    text-decoration: none;
+}
+.button {
+    background-color: rgb(56, 56, 192);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
